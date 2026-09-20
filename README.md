@@ -1,7 +1,7 @@
 # Hyperlite APT repository
 
 Replace `<repository-url>` with the address where this directory is served
-(the public mirror is `https://twikles.github.io/hyperlite`).
+(the public mirror is `https://hyperlite-hv.github.io`).
 
 ```bash
 curl -fsSL <repository-url>/hyperlite-archive-keyring.asc | gpg --dearmor -o /usr/share/keyrings/hyperlite-archive-keyring.gpg
