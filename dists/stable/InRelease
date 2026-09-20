@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 20 Sep 2026 15:06:01 +0000
+Description: Hyperlite package repository
+Label: Hyperlite
+Origin: Hyperlite
+Suite: stable
+MD5Sum:
+ 4dcc6beea2bee8d8f35cade45ccad7ba              184 Release
+ 4b7cb5d36512a0cd2562a9d42f9495ba            32319 main/binary-amd64/Packages
+ 5951a055c1b94cd027390395870eef2d             4254 main/binary-amd64/Packages.gz
+SHA1:
+ 4a1507d154cb26b3d28338b855126f44b2a96423              184 Release
+ 56bd562be3ffa8d4f8a42e0e2b2383cd49a21dee            32319 main/binary-amd64/Packages
+ 2ff008ce49b9a9b53827698d575d9029af5e6c1a             4254 main/binary-amd64/Packages.gz
+SHA256:
+ 60b61caf039f110a093d30cec5f26459d00519bb3b627566908699f1ff10b8ee              184 Release
+ 348ee8dffe598984f07f58bed85d40d875ffade5936280eebfa2dc6d3ccd90a7            32319 main/binary-amd64/Packages
+ 3c895a1e543286e2aeae909dc649cfb0f9c953a8b02c3b48fb44974afe8524d1             4254 main/binary-amd64/Packages.gz
+SHA512:
+ 3a9de784d5b85c5f667fa6bbaa16c23ed2e21aaaad6114ce44ada6a4331a06588feb8d9de68686d289a2a5ef114d9417726c2c5e0d50aae411d39e2d778f0929              184 Release
+ 183763f1f066366665753f8386a8a5e931b179a1c309e1aea610821b63add40610fbe11c4b9f1aa9534b1d3df272272ea8150fda26dec4627c15e9f6c3411410            32319 main/binary-amd64/Packages
+ c397717800e7072162211f4ad5dde2605e9ca3227d87c4ab674d75ad3493dff3307e8e1c46173060a771d29d388d227607bb6602a4395b1b3049295b97364084             4254 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRWykpqJqXOxoyGNB6MDgBYSKYkSwUCaq/2WQAKCRCMDgBYSKYk
+SwzgAQCmsVjUfpMDG425KVDfOCDT/JdSlXQI7XUl9lz0LAyguwD/UM6Q95Fcxfkp
+5RzN0UrLDYxZu+cdkkIn4yQ+cGMsZQg=
+=mver
+-----END PGP SIGNATURE-----
