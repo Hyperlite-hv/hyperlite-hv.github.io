@@ -9,6 +9,8 @@ echo "deb [signed-by=/usr/share/keyrings/hyperlite-archive-keyring.gpg] <reposit
 apt update && apt install hyperlite
 ```
 
+Replace `stable` with `test` for the test channel: every merge into the test branch, before its release.
+
 Note on GitHub Pages: it is a multi-node CDN without strong consistency between
 files published in the same commit, so InRelease and Packages can be served out
 of sync for a while (`apt update` then fails with "File has unexpected size").
