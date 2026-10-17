@@ -1882,3 +1882,24 @@ Description: Hyperlite hypervisor (FastAPI + libvirt/QEMU-KVM)
  in /root/hyperlite, creates or refreshes its Python virtual environment and
  restarts its systemd service.
 
+Package: hyperlite
+Version: 2026.10.17.1131~test
+Architecture: amd64
+Maintainer: Hyperlite <noreply@example.invalid>
+Depends: python3 (>= 3.11), python3-venv, python3-pip, libvirt-dev, pkg-config, gcc, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-utils, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, meson, ninja-build, libsqlite3-dev, libssl-dev, libcpg-dev, libquorum-dev, libvotequorum-dev, libcmap-dev, corosync, unattended-upgrades
+Recommends: ovmf, swtpm, swtpm-tools
+Suggests: certbot, libguestfs-tools, python3-guestfs
+Filename: pool/test/h/hyperlite/hyperlite_2026.10.17.1131~test_amd64.deb
+Size: 15152808
+MD5sum: 0756eb46863129f1e9257d349e660fd3
+SHA1: e6bb0ee2fcea03d3476f61c4a011c204743afd10
+SHA256: 4506ac18f0f38c3875f1657529b20239a30f760a1689facb1484bb026014fe3f
+Section: admin
+Priority: optional
+Homepage: https://github.com/Hyperlite-hv/Hyperlite
+Description: Hyperlite hypervisor (FastAPI + libvirt/QEMU-KVM)
+ Hyperlite is a self-hosted web hypervisor: a FastAPI and libvirt backend
+ with a React dashboard. This package installs or upgrades the application
+ in /root/hyperlite, creates or refreshes its Python virtual environment and
+ restarts its systemd service.
+
