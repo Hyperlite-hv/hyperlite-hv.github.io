@@ -1,15 +1,15 @@
 Package: hyperlite
-Version: 2026.10.08.1421
+Version: 1:1.0.0
 Architecture: amd64
 Maintainer: Hyperlite <noreply@example.invalid>
-Depends: python3 (>= 3.11), python3-venv, python3-pip, libvirt-dev, pkg-config, gcc, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-utils, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, meson, ninja-build, libsqlite3-dev, libssl-dev, libcpg-dev, libquorum-dev, libvotequorum-dev, libcmap-dev, corosync, unattended-upgrades
+Depends: python3 (>= 3.13), python3 (<< 3.14), python3-venv, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-utils, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, corosync, unattended-upgrades, libvirt0, libcmap4, libcorosync-common4, libcpg4, libqb100, libquorum5, libvotequorum8, libsqlite3-0, libssl3t64, libsystemd0, libzstd1, zlib1g, libcap2, xz-utils
 Recommends: ovmf, swtpm, swtpm-tools
 Suggests: certbot, libguestfs-tools, python3-guestfs
-Filename: pool/main/h/hyperlite/hyperlite_2026.10.08.1421_amd64.deb
-Size: 15097050
-MD5sum: 91d77ba169168f5dff83d6bd6f329a3c
-SHA1: 144f6c70c8cab75585d107028e6691aa3733c02a
-SHA256: 6d54da14224128614ede61bbf873e7988092421420c32a62b90de28bb923d216
+Filename: pool/main/h/hyperlite/hyperlite_1.0.0_amd64.deb
+Size: 52461798
+MD5sum: b309c2fa3d018a0a471f8f54c39ea98d
+SHA1: cf31dee96a7095eac63356e6f7594e681e7a3ef5
+SHA256: d9b355a72c056be2ca3bdb499625e5295e0a13e5da0b474fb97b29eeca5fd125
 Section: admin
 Priority: optional
 Homepage: https://github.com/Hyperlite-hv/Hyperlite
