@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: test
 Components: main
-Date: Wed, 21 Oct 2026 09:34:46 +0000
+Date: Wed, 21 Oct 2026 09:50:48 +0000
 Description: Hyperlite package repository (test)
 Label: Hyperlite
 Origin: Hyperlite
 Suite: test
 MD5Sum:
- 0464b2298ab3c5ce7abc84a5f20675f0              187 Release
- 1f68eb51ce8640b42af5847adea3fac1            13730 main/binary-amd64/Packages
- 99fa40f30f40fd81e2d8cb55e2ac429d             2058 main/binary-amd64/Packages.gz
+ da2ab1fffd253e858391513f80e2ec2c              187 Release
+ b543fff5db291831fd873e46bf9d57f1            13730 main/binary-amd64/Packages
+ 1a2425b894ca456cddf7de48ecdc38c5             2050 main/binary-amd64/Packages.gz
 SHA1:
- c1eb262d130c61bab35cd86464778d32186972a4              187 Release
- 9161d1fa1658249d71b0bf8b257fd44650f380a6            13730 main/binary-amd64/Packages
- 7d4b4e132a1009075da1f3bef2b22772bd7d7d1c             2058 main/binary-amd64/Packages.gz
+ 84f7ebf5044603876d2c34e9e211c73f37785444              187 Release
+ 25379d5f4202c6f4b04c5501e79f2ea662e2de04            13730 main/binary-amd64/Packages
+ 4d5763608cf497ef73dbb82af11910a420d70246             2050 main/binary-amd64/Packages.gz
 SHA256:
- b71d5c5046c10f8a6afabdf5ca48eb0f51d8d6a248c562ae21f18e5122e6b493              187 Release
- f0249ae8ddc03c1ebb52d3736be963c905d07ed5014fb91f5c166abea0f3e6f7            13730 main/binary-amd64/Packages
- b4c70469700dfbcd417b75f8a6c4bf6c2ef8dd1b20cc32c615268dadd7046e0e             2058 main/binary-amd64/Packages.gz
+ ff8dba7d0291f962bba4beda9bbd1db280696136c90b3581e8a86fd5bc5bffd5              187 Release
+ 2ad6f72350afd81e73d6e2038389cd31daf937c2bde11dfc62732f83f6ed23ab            13730 main/binary-amd64/Packages
+ 331a28b4a09985683034d19a0529ebf9d7b36c9e5762456c45238c561913cd7c             2050 main/binary-amd64/Packages.gz
 SHA512:
- b4e43da2c2fdcbbbba82cae2d5bfc14fc095a2dbc388e0f1bd5af555ff14d0e3262eedc46d0e7fa63ab3f9740123fde9a543c88eb35e152f65b76e1b24090ed3              187 Release
- caae93dee7c0728a74f8b9181dceb7741e16ea3147667471574caeee123b60426f87fd88eeed43d5425ccda19f6df30db6ee11b39dd28450469e219701e84065            13730 main/binary-amd64/Packages
- cd345ffc504689a7e31cdccad23993d576a5872577e6d5419f64a87943f75ffa77a0987bf25104eb83722700d9cbb92ea3a3f4d5dd7912a210306c79b7374143             2058 main/binary-amd64/Packages.gz
+ 92fcdc39e0ad04d27d074ac8410b2c6f1d467d428643d9897f0f4904cdfce99bcffb6dfdfff9c122ebac020bd44909ebc37cc75a1a74982d4f161f6b71aa8ccf              187 Release
+ 6223fd1e612492b4143b0e531ae4c7d7f5be5ef899a65d17f20b9bb81669fda246d1bdeded602184bfd48461b275719035e03642b11c618d5f8f4eabeafc40fa            13730 main/binary-amd64/Packages
+ 39cc441656667e10be9eb760b5cda82df112dce5887150f052b8f99776138fe561c8ea8c998e58aad39ea9176d84942df1df83d318be50541f8783c0e60766bf             2050 main/binary-amd64/Packages.gz
