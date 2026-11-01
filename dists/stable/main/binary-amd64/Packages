@@ -153,17 +153,17 @@ Description: Hyperlite hypervisor (FastAPI + libvirt/QEMU-KVM)
  Proxmox VE does, and restarts its systemd services.
 
 Package: hyperlite
-Version: 1:1.9.0
+Version: 1:1.16.0
 Architecture: amd64
 Maintainer: Hyperlite <noreply@example.invalid>
-Depends: python3 (>= 3.13), python3 (<< 3.14), python3-venv, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-system-modules-spice, qemu-utils, libnbd-bin, python3-libnbd, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, cifs-utils, rsync, corosync, unattended-upgrades, libvirt0, libcmap4, libcorosync-common4, libcpg4, libqb100, libquorum5, libvotequorum8, libsqlite3-0, libssl3t64, libsystemd0, libzstd1, zlib1g, libcap2, xz-utils
+Depends: python3 (>= 3.13), python3 (<< 3.14), python3-venv, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-system-modules-spice, qemu-utils, libnbd-bin, python3-libnbd, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, cifs-utils, rsync, corosync, unattended-upgrades, libvirt0, libcmap4, libcorosync-common4, libcpg4, libqb100, libquorum5, libvotequorum8, libsqlite3-0, libssl3t64, libsystemd0, libzstd1, zlib1g, libcap2, xz-utils, fuse3, libfuse3-4
 Recommends: ovmf, swtpm, swtpm-tools, fence-agents-ipmilan, fence-agents-redfish, bridge-utils, ifenslave
 Suggests: certbot, libguestfs-tools, python3-guestfs
-Filename: pool/main/h/hyperlite/hyperlite_1.9.0_amd64.deb
-Size: 64736552
-MD5sum: dbf32ffb9e569390f9db65da3056946c
-SHA1: 4a2444b908b3edd550ecbb8990ba90929dbfc332
-SHA256: 60e3bced24013c347eca36173406666552d6fc20a5ed5f52abb958b1c0752436
+Filename: pool/main/h/hyperlite/hyperlite_1.16.0_amd64.deb
+Size: 64814044
+MD5sum: 3c9cae56854758f08f68d22a59f97cc0
+SHA1: 7b3d06f7e0fbd49874a422805c3a098b69a89d68
+SHA256: a3413e349a4316130ca098dd4558ca77ae2af91ef9944ce257222e2579e7ee7e
 Section: admin
 Priority: optional
 Homepage: https://github.com/Hyperlite-hv/Hyperlite
