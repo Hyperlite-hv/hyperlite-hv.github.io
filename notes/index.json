@@ -1,5 +1,9 @@
 [
  {
+  "version": "1.8.1",
+  "fr": true
+ },
+ {
   "version": "1.8.1~test.20261101.1525",
   "fr": false
  },
