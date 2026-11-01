@@ -4,31 +4,31 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sun, 01 Nov 2026 13:43:28 +0000
+Date: Sun, 01 Nov 2026 13:50:42 +0000
 Description: Hyperlite package repository (stable)
 Label: Hyperlite
 Origin: Hyperlite
 Suite: stable
 MD5Sum:
- e9650f2d53677c90ab1e970dedd8fd73              193 Release
- cb374f9faa74f6c6df3f0fdd82f34613            11568 main/binary-amd64/Packages
- 93b0314817abf7a8392f564e27edd1db             1703 main/binary-amd64/Packages.gz
+ cf2785072bbb7b484b3885767ac65224              193 Release
+ 9834b36ae04629d5fae686abb905c683            11640 main/binary-amd64/Packages
+ 0e41faa75881e22a0c479b7b282201fc             1691 main/binary-amd64/Packages.gz
 SHA1:
- 6d52fadce75458574f76c18a147e13e7a8adef03              193 Release
- 103c7abbd23157265975619062251d24ece472fe            11568 main/binary-amd64/Packages
- 04b6167c4212ca6bbec77b0c14bdfecb9f46705e             1703 main/binary-amd64/Packages.gz
+ b5d0b38030ac9e738390302088d6681a0c63d234              193 Release
+ 1688ecac0c31194d7d6cad5c744b1759ef50bc09            11640 main/binary-amd64/Packages
+ 08f94a2a04f14911ffa31a3e47d931e9c5889bf6             1691 main/binary-amd64/Packages.gz
 SHA256:
- d8b90fa593eff31da2e81252c3d65dee4d2484c0e286ffbee09f982e829fd231              193 Release
- 955d4b34ff3affd703f7d2c8c29617d7e3ee456bd5deed4095896ca3fdb0015a            11568 main/binary-amd64/Packages
- 2413726e2be0136da38315946ff6af257249cb3ba691dd40c032663450fd2aa1             1703 main/binary-amd64/Packages.gz
+ 267544ac8eebc5c7dc642935d6308c19249826547e28da1bebd369d462b98815              193 Release
+ 4b0197ed7df0a43bf5b11aaac4c33ce2436de336f8ba478a195d592a13d3603a            11640 main/binary-amd64/Packages
+ fd98424e9c6b7d505a969229e123c171713a2dd03841ec084518b5e192d86107             1691 main/binary-amd64/Packages.gz
 SHA512:
- 67d27f5f831185609e920412b8344bddc668dcb76162c23eb47bfdbf00081155a9a134af3253e728ab34a17c513f05b8884cddcb3a3819f1d866fca83ed8a540              193 Release
- 6445e488590d082123746a6d98e428902f739322f16aabd75a9e531ef59bd99e03148e6c4f94ad5d0e11c3ea3b2006e6ef7995f89b4bf7c889ae97e54187b989            11568 main/binary-amd64/Packages
- 3a33192df06940184c2d4474f10a8063be62b227834b57489c0407fb49b1fdb34ebd8759f1d563db42c6f8531f93e74dbb2747c1f0140dd55b1dd42c59e1e4b2             1703 main/binary-amd64/Packages.gz
+ d34280079f0dc4668bbcad15c3da0b96f4d2fef10492c82eb5b46574b2da28808f3892be70581f16eb9e18b88dca0b3cebd511c2a39eda7d9f386868fd3f9159              193 Release
+ 0849c2fb7dea1469ad19e7d56383cb52786022c33c4ce240b9441eecfa9df47a01f01ada078b48aa68ca1f84358bbfc65a8e5cc1a2e96cc95b2ee9e01d818d80            11640 main/binary-amd64/Packages
+ f16993c374e0ccc0e6575359ad570552fa31674c8f0459e033b1a9e6bad84d3c1d2af672fe029c540b1043144ee9714a30f2e8dafbf2ca557deb8ce4f4636154             1691 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRWykpqJqXOxoyGNB6MDgBYSKYkSwUCaudCAAAKCRCMDgBYSKYk
-Sy/SAQD5qRicIVDyAHIP4oh5vC2Dscm+kvoJJ+iVMu6YUrtZyQD+O2d3wiFN00xf
-4YdVW36q5FVkjenEk6tQaLb3eEU4cAc=
-=8tDS
+iHUEARYKAB0WIQRWykpqJqXOxoyGNB6MDgBYSKYkSwUCaudDsgAKCRCMDgBYSKYk
+S25iAQC0RjHEgqQYfx3rt/2cuzeYY/S3saYJk6GSD4ukbv/l8wEAwFu39QfnLKbl
+WjXuZ1FmH5se9c8ZD3ZOj+P0yX5rpgA=
+=yWDO
 -----END PGP SIGNATURE-----
