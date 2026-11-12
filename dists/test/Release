@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: test
+Components: main
+Date: Thu, 12 Nov 2026 09:34:02 +0000
+Description: Hyperlite package repository (test)
+Label: Hyperlite
+Origin: Hyperlite
+Suite: test
+MD5Sum:
+ 43d87bf118188e240e7e342a5fc4f736              187 Release
+ 603da34ebc0e551c917305faf30a546a            16583 main/binary-amd64/Packages
+ afd1de892ccc71b73409482d77b4ae2a             2089 main/binary-amd64/Packages.gz
+SHA1:
+ e0902602f98e95a82680c7e8fcc6dcd93f5c8f46              187 Release
+ 6d03e9bab612bd8a5d34861af9f4e7ad0198e3bc            16583 main/binary-amd64/Packages
+ 9537f503cf24af5114de2ac222733d14eb2e9ca4             2089 main/binary-amd64/Packages.gz
+SHA256:
+ 97feaf23e7a128ca3a2a3d332913658666307303a7ea48f4afb71e1e94ff1fa4              187 Release
+ 6eab743fea0b719c1abf441bebfe012a04f5feedcf9af447e5f76ffe0fa2019c            16583 main/binary-amd64/Packages
+ 5130d29e22d0fadadbbdb5744579a1e544c7a0322ccc12b59f212eb397c0db07             2089 main/binary-amd64/Packages.gz
+SHA512:
+ d11e32251650fc8b233eaaf7447883abbcb8369eb23af6e9c397e886e8baa60b050b66c00b78677c6bc738de71f393df87d56a72790ec3d9fcb64c962426faae              187 Release
+ da1bd9bbdd3f785311763eefe36a25722f1d35a24f75dd437aec67416e1c7ec975591854d8a995c35f2daa3d76127b68c659e25d698bd56c1f67b6e7fdb98887            16583 main/binary-amd64/Packages
+ 7d178ea9d44ae785d22b391616942e9242aca9dd465c384fb5cd3f37594b35a57930b108646557ab1fe0dd7f39dc9a322523d16eabe93984fb1960afedf60e5d             2089 main/binary-amd64/Packages.gz
