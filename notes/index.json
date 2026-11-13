@@ -4,6 +4,10 @@
   "fr": false
  },
  {
+  "version": "1.18.0",
+  "fr": true
+ },
+ {
   "version": "1.17.3~test.20261113.1828",
   "fr": false
  },
