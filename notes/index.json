@@ -1,5 +1,9 @@
 [
  {
+  "version": "1.23.0",
+  "fr": true
+ },
+ {
   "version": "1.22.1~test.20261114.1903",
   "fr": false
  },
