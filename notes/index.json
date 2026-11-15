@@ -4,6 +4,10 @@
   "fr": false
  },
  {
+  "version": "1.27.0",
+  "fr": true
+ },
+ {
   "version": "1.26.1~test.20261115.1137",
   "fr": false
  },
