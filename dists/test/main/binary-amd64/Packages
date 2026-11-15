@@ -167,27 +167,6 @@ Description: Hyperlite hypervisor (FastAPI + libvirt/QEMU-KVM)
  the node's data in /var/lib/hyperlite and its secrets in /etc/hyperlite, and restarts its systemd services.
 
 Package: hyperlite
-Version: 1:1.25.1~test.20261115.1112
-Architecture: amd64
-Maintainer: Hyperlite <noreply@example.invalid>
-Depends: python3 (>= 3.13), python3 (<< 3.14), python3-venv, tmux, jq, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-system-modules-spice, qemu-utils, libnbd-bin, python3-libnbd, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, cifs-utils, rsync, corosync, unattended-upgrades, libvirt0, libcmap4, libcorosync-common4, libcpg4, libqb100, libquorum5, libvotequorum8, libsqlite3-0, libssl3t64, libsystemd0, libzstd1, zlib1g, libcap2, xz-utils, fuse3, libfuse3-4
-Recommends: ovmf, swtpm, swtpm-tools, fence-agents-ipmilan, fence-agents-redfish, bridge-utils, ifenslave
-Suggests: certbot, libguestfs-tools, python3-guestfs
-Filename: pool/test/h/hyperlite/hyperlite_1.25.1~test.20261115.1112_amd64.deb
-Size: 65105528
-MD5sum: ae7aef2b6e8ba33acd7af0b3ad4b5c8c
-SHA1: 8de3387224677546f9b0d8f1f936f773d458c795
-SHA256: a1741614eab7117a2083478287060fbfb0841be7b2a391bd47e45b68c0664a5a
-Section: admin
-Priority: optional
-Homepage: https://github.com/Hyperlite-hv/Hyperlite
-Description: Hyperlite hypervisor (FastAPI + libvirt/QEMU-KVM)
- Hyperlite is a self-hosted web hypervisor: a FastAPI and libvirt backend
- with a React dashboard. This package installs or upgrades the application
- in /usr/lib/hyperlite (its web interface in /usr/share/hyperlite/www), keeps
- the node's data in /var/lib/hyperlite and its secrets in /etc/hyperlite, and restarts its systemd services.
-
-Package: hyperlite
 Version: 1:1.26.1~test.20261115.1118
 Architecture: amd64
 Maintainer: Hyperlite <noreply@example.invalid>
@@ -220,6 +199,27 @@ Size: 69956638
 MD5sum: 38fab67ec89a8242b5ae8c9f296e6529
 SHA1: 98961faae92b77463dd23655805f0485b183476d
 SHA256: bf1c3e786cab0d78d9e2a366b8cb0029a6cc21fb1cdd8ce290c67160e372b876
+Section: admin
+Priority: optional
+Homepage: https://github.com/Hyperlite-hv/Hyperlite
+Description: Hyperlite hypervisor (FastAPI + libvirt/QEMU-KVM)
+ Hyperlite is a self-hosted web hypervisor: a FastAPI and libvirt backend
+ with a React dashboard. This package installs or upgrades the application
+ in /usr/lib/hyperlite (its web interface in /usr/share/hyperlite/www), keeps
+ the node's data in /var/lib/hyperlite and its secrets in /etc/hyperlite, and restarts its systemd services.
+
+Package: hyperlite
+Version: 1:1.27.1~test.20261115.1142
+Architecture: amd64
+Maintainer: Hyperlite <noreply@example.invalid>
+Depends: python3 (>= 3.13), python3 (<< 3.14), python3-venv, tmux, jq, libvirt-daemon-system, libvirt-daemon-driver-lxc, qemu-kvm, qemu-system-modules-spice, qemu-utils, libnbd-bin, python3-libnbd, cloud-image-utils, genisoimage, wget, openssl, openssh-client, nfs-common, cifs-utils, rsync, corosync, unattended-upgrades, libvirt0, libcmap4, libcorosync-common4, libcpg4, libqb100, libquorum5, libvotequorum8, libsqlite3-0, libssl3t64, libsystemd0, libzstd1, zlib1g, libcap2, xz-utils, fuse3, libfuse3-4
+Recommends: ovmf, swtpm, swtpm-tools, fence-agents-ipmilan, fence-agents-redfish, bridge-utils, ifenslave, tigervnc-standalone-server, freerdp3-x11
+Suggests: certbot, libguestfs-tools, python3-guestfs
+Filename: pool/test/h/hyperlite/hyperlite_1.27.1~test.20261115.1142_amd64.deb
+Size: 69956738
+MD5sum: b8248b18dd40e3a695b6af9ecd9f0fbf
+SHA1: 240618584080c1d9624ee9510418fd23763e5da7
+SHA256: ca8f92fa233c119643ce0646e3a9a5d92c7e40ddbbb959463c355db4413a2b69
 Section: admin
 Priority: optional
 Homepage: https://github.com/Hyperlite-hv/Hyperlite
